@@ -1,0 +1,9 @@
+h1 {
+    color: rgba(110, 50, 207, 0);
+    text-shadow: rgb(62, 142, 65) 1px 0 10px;
+}
+
+h1:hover {
+    color: rgb(62, 142, 65);
+}
+
